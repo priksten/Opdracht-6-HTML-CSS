@@ -1,0 +1,14 @@
+.lijntabel{
+    border: 1px solid black; 
+    border-collapse: collapse;
+    text-align: center;           
+}
+
+td.lijntabel{
+    padding: 10px;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 50px 50px 50px 50px;
+}   
